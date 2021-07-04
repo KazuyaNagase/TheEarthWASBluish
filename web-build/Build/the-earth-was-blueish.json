@@ -1,0 +1,16 @@
+{
+"companyName": "Dynamic-Dogu",
+"productName": "TheEarthWASBluish",
+"productVersion": "0.1",
+"dataUrl": "the-earth-was-blueish.data.unityweb",
+"wasmCodeUrl": "the-earth-was-blueish.wasm.code.unityweb",
+"wasmFrameworkUrl": "the-earth-was-blueish.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.1.6f1"
+}
